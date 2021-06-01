@@ -48,6 +48,8 @@
     该数据集包含有关YouTube每日热门视频的数月（且在不断增加）的数据。包含美国，GB，DE，CA和FR地区（分别为美国，英国，德国，加拿大和法国）的数据，每天最多列出200个趋势视频。
     
     YouTube会在平台上不断更新热门视频的列表。 为了确定本年度最热门的视频，YouTube使用了多种因素，包括衡量用户的互动情况(观看次数，分享次数，评论和喜欢的次数)。
+    
+    数据集包括video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count属性。
 
 * Contents:
     ```
@@ -71,22 +73,6 @@
     RUvideos.csv 
     US_category_id.json
     USvideos.csv
-    ```
-
-## Oakland Crime Statistics 2011 to 2016 [(download)](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016?select=records-for-2012.csv)
-
-* Description: 
-
-    This is a dataset hosted by the city of Oakland in California. The organization has an open data platform found here and they update their information according to the amount of data that is brought in. Explore Oakland's Data using Kaggle and all of the data sources available through the city of Oakland organization page!
-
-* Contents:
-    ```
-    records-for-2011.csv
-    records-for-2012.csv
-    records-for-2013.csv
-    records-for-2014.csv
-    records-for-2015.csv
-    records-for-2016.csv
     ```
 
 # 使用说明
