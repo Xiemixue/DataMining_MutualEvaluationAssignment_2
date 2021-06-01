@@ -41,19 +41,36 @@
 
 # 选择的数据集介绍
 
-## Wine Reviews [(download)](https://www.kaggle.com/zynicide/wine-reviews)
+## Trending YouTube Video Statistics [(download)](https://www.kaggle.com/datasnaek/youtube-new)
 
 * Description: 
 
-    130k wine reviews with variety, location, winery, price, and description.
+    该数据集包含有关YouTube每日热门视频的数月（且在不断增加）的数据。包含美国，GB，DE，CA和FR地区（分别为美国，英国，德国，加拿大和法国）的数据，每天最多列出200个趋势视频。
+    
+    YouTube会在平台上不断更新热门视频的列表。 为了确定本年度最热门的视频，YouTube使用了多种因素，包括衡量用户的互动情况(观看次数，分享次数，评论和喜欢的次数)。
 
 * Contents:
     ```
-    winemag-data-130k-v2.csv: contains 10 columns and 130k rows of wine reviews.
-
-    winemag-data_first150k.csv: contains 10 columns and 150k rows of wine reviews.
-
-    winemag-data-130k-v2.json: contains 6919 nodes of wine reviews.
+    CA_category_id.json
+    CAvideos.csv 
+    DE_category_id.json
+    DEvideos.csv 
+    FR_category_id.json 
+    FRvideos.csv
+    GB_category_id.json
+    GBvideos.csv
+    IN_category_id.json
+    INvideos.csv 
+    JP_category_id.json
+    JPvideos.csv 
+    KR_category_id.json
+    KRvideos.csv 
+    MX_category_id.json
+    MXvideos.csv 
+    RU_category_id.json
+    RUvideos.csv 
+    US_category_id.json
+    USvideos.csv
     ```
 
 ## Oakland Crime Statistics 2011 to 2016 [(download)](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016?select=records-for-2012.csv)
