@@ -76,4 +76,4 @@
     ```
 
 # 使用说明
-下载数据集并上传至main.ipynb文件所在目录，然后使用jupyter notebook 打开main.ipynb文件，运行指定cell，即可得到相应可视化结果。
+下载数据集并更新代码里的数据集路径，然后使用jupyter notebook 打开MutualEvaluationHomework_2.ipynb文件，运行指定cell，即可得到相应可视化结果。或者用pycharm运行MutualEvaluationHomework_2.py文件。
